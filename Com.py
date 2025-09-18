@@ -5,9 +5,6 @@ from Message import MessageBroadCast
 from Message import MessageBroadcastSynchrone
 from Message import MessageDedieSynchrone
 from Message import MessageDedieSynchroneReply
-from MessageId import MessageSendId
-from MessageId import MessageRegenerateId
-from Synchronization import Synchronization
 from Token import Token
 from State import State
 import threading
